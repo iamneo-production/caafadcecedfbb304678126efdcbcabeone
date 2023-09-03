@@ -67,7 +67,12 @@ header{
   color:#000000;
   background-color: #ffffff;
   width:100px;
-  height: ;
+  height: 40px;
+  font-size: 16px;
   cursor: pointer;
-  margin: 5px;
+  transition: background-color 0.3s,color 0.3s;
+}
+#reset-button:hover{
+  background-color: #ffffff;
+  color:#000;
 }
