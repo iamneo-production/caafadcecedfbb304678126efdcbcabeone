@@ -40,4 +40,13 @@ header{
 .bt.X{
   color:#000;
 }
-.bt.
+.bt.O{
+  color:#000;
+}
+.bt.hover{
+  background-color: rgba(255,255,255,1);
+  cursor: pointer;
+}
+.result-container{
+  background-color: rgba(255,25);
+}
